@@ -6,7 +6,7 @@ function App() {
       <div className="profile-card">
         <div className="card-header">
             <div className="profile-image">
-            <img src="../src/assets/profpic.jpg" alt="Profile Picture" className="avatar" />            
+            <img src="https://scontent.fcgy1-2.fna.fbcdn.net/v/t39.30808-6/505740797_3172353712914692_5475442371117380850_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF9MxYuR_tInlvA6mjZ299cRUZgVY2GU45FRmBVjYZTjv4_13-bwBnBSAyYzfhvoSjyf8XCYdvCPwUl9f32277O&_nc_ohc=NgW7rxc07XgQ7kNvwE4VhY1&_nc_oc=Adkgb8s_jR27xH7-K0h4tMjb3lRjVnsVXto49E3TMcnEo0H-ce1UbPeQDWwjN64sw8E&_nc_zt=23&_nc_ht=scontent.fcgy1-2.fna&_nc_gid=UrINh_TFLZsG3PsHtusMOQ&oh=00_AfM7p5yzyou0wMeuanq-E42i0yqyM7-zBbt2trVVApcvPA&oe=68554B1F" alt="Profile Picture" className="avatar" />            
             </div>
         </div>
         
