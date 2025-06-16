@@ -6,7 +6,7 @@ function App() {
       <div className="profile-card">
         <div className="card-header">
             <div className="profile-image">
-            <img src="./src/assets/profpic.jpg" alt="Profile Picture" className="avatar" />            
+            <img src="../src/assets/profpic.jpg" alt="Profile Picture" className="avatar" />            
             </div>
         </div>
         
